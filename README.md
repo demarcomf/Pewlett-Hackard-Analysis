@@ -1,3 +1,3 @@
-# Pewlett Hackard An Aging Company
+# Pewlett Hackard, An Aging Company
 ## Overview of the analysis
 Pewlett Hackard needed a way to accurately assess their workforce to anticipate natural attrition. In this analysis, I sorted data and created new tables to depict the total number of employees that were approaching their retirement eligiblity, as well as provided numerical values associated with each title in the Pewlett Hackard labor category system. Finally, with attrition comes a younger workforce to replace, typically. This retirement information based on eligiblity also helped sort people who were great candidates for mentorship opportunities to keep the Pewlett Hackard workforce running with expertise.
