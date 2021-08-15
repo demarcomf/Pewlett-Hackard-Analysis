@@ -48,9 +48,11 @@ SELECT * FROM retiring_titles;
 --Deliverable 2 - query to create mentorship elegibility table for current employees
 --born between 1/1/65 and 12/31/65
 SELECT DISTINCT ON(e.emp_no)e.emp_no,
+--selections from employee table, name and birth date
 e.first_name,
 e.last_name,
 e.birth_date,
+--selections from department employee, employment dates
 de.from_date,
 de.to_date,
 t.title
